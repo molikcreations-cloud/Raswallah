@@ -1,15 +1,13 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ VASUDEV Bot ✨
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@RAS_WALLAH" alt="Typing SVG" />
 </p>
 
 ---
 
-> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
-> 🚫 **Do not remove the credit tag**
 
 ---
 
@@ -45,14 +43,12 @@
 
 ## 🤖 Bot Usernames
 
-- [Saini_Contact](https://t.me/saini_contact_bot)
+- [VASUDEV_Contact](https://t.me/vasudev_ka_bot)
 
 ---
 
-## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
 
 ---
 
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+> 👨‍💻 Created with ❤️ by @RAS_WALLAH
